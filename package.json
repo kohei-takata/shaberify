@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tako-black/shaberify.git"
+    "url": "git://github.com/kohei-takata/shaberify.git"
   },
   "author": "Kohei TAKATA",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tako-black/learnyoureact/issues"
+    "url": "https://github.com/kohei-takata/shaberify/issues"
   },
-  "homepage": "https://github.com/tako-black/learnyoureact",
+  "homepage": "https://github.com/kohei-takata/shaberify",
   "preferGlobal": true
 }
